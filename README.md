@@ -43,9 +43,6 @@ A simple terminal-based version of the 2048 game written in pure C. This project
 - Terminal input/output handling
 - Functional programming principles in C
 
-## 📸 Screenshots
-
-_Add a screenshot of the terminal interface or gameplay._
 
 ## 📚 License
 
