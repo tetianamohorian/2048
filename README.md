@@ -53,4 +53,4 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Created with brain power and joy by [Your Name] — aspiring systems and game developer.
+Created with brain power and joy by [Tetiana] — aspiring systems and game developer.
